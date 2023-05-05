@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CapasBase", "CapasBase", "{25C90308-D869-4F97-91C7-F238EAAC1616}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movil", "Movil", "{B241F73D-478B-42C9-BA41-526B5155308E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{8903758E-7F51-4A42-8B71-4A48C3471661}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HardWare", "HardWare", "{BA452034-B931-47DB-B14A-4C4A7BB34073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMMON", "COMMON\COMMON.csproj", "{4A75115C-D130-490E-8B77-D5699A01E72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A75115C-D130-490E-8B77-D5699A01E72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A75115C-D130-490E-8B77-D5699A01E72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A75115C-D130-490E-8B77-D5699A01E72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A75115C-D130-490E-8B77-D5699A01E72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A75115C-D130-490E-8B77-D5699A01E72F} = {25C90308-D869-4F97-91C7-F238EAAC1616}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B38F270-7BB1-4855-B504-58D7F6EFD953}
+	EndGlobalSection
+EndGlobal
